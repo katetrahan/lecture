@@ -1,0 +1,22 @@
+h1 {
+
+}
+
+h2.intro{
+  color: green;
+  font-style: italic;
+}
+
+body {
+
+}
+
+p.intro {
+  color: purple;
+  font-style: oblique;
+}
+
+img.intro {
+background-color: blue;
+border-color: black;
+}
